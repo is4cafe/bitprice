@@ -1,0 +1,11 @@
+{
+  "name": "bitprice",
+  "version": "1.0.0",
+  "preferGlobal": true,
+  "bin": {
+    "bp": "index.js"
+  },
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
